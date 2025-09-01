@@ -20,3 +20,5 @@ It automatically collects merged pull requests from a repository, categorizes th
 
 ---
 
+## Dummy Feature
+Just testing Pull Requests for the Release Notes Generator project.
