@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langgraph
+pygithub
+typer
+pydantic
+requests
+python-dotenv
+pytest
