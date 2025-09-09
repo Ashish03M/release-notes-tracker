@@ -1,12 +1,42 @@
-# Virtual environment
-.venv/
-
-# Python cache
+# Python-generated files
 __pycache__/
-*.pyc
+*.py[oc]
+*.pyd
+*.so
+*.dll
 
-# Secrets
+# Build artifacts
+build/
+dist/
+wheels/
+*.egg-info
+*.manifest
+
+# Virtual environments
+.venv/
+venv/
+.envrc
+
+# Environment files (secrets)
 .env
+.env.*  # e.g., .env.local, .env.dev
+*.pem   # private keys
 
-# OS junk
+# Jupyter / IPython
+.ipynb_checkpoints/
+*.ipynb
+
+# OS-specific
 .DS_Store
+Thumbs.db
+
+# IDE-specific
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# uv lockfile (optional — keep if you want reproducible installs)
+# uv.lock

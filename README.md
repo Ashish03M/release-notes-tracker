@@ -9,7 +9,7 @@ It automatically collects merged pull requests from a repository, categorizes th
 - Fetches merged PRs from a GitHub repository  
 - Categorizes changes (Features, Fixes, Docs, Refactors, etc.)  
 - Generates Markdown release notes in a clean format  
-- Runs as a simple Python script (CLI planned)  
+- Runs as a simple Python script  
 
 ---
 
@@ -20,5 +20,3 @@ It automatically collects merged pull requests from a repository, categorizes th
 
 ---
 
-## Dummy Feature
-Just testing Pull Requests for the Release Notes Generator project.
